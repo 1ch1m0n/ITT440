@@ -32,13 +32,13 @@ int main(void)
 }
 void sigint_handler(int a)
 {
-   printf("This is a special handler for SIGINT \n");
+   printf("This is a special handler for SIGINT \n"); //CTRL + C 
 }
 void sigtstp_handler(int b)
 {
-   printf("This is a special handler for SIGTSTP \n");
+   printf("This is a special handler for SIGTSTP \n"); //CTRL + Z
 }
 void sigquit_handler(int c)
 {
-   printf("This is a special handler for SIGQUIT \n");
+   printf("This is a special handler for SIGQUIT \n"); //CTRL + \
 }

@@ -1,11 +1,13 @@
-//Coding 
+{
 
-#include <stdio.h>
-#include <sys/socket.h>
-#include <arpa/inet.h>
-#include <string.h>
+    //Coding Starts
+    
+    #include <stdio.h>
+    #include <sys/socket.h>
+    #include <arpa/inet.h>
+    #include <string.h>
 
-int main(int argc, char *argv[]) {
+    int main(int argc, char *argv[]) {
     int socket_desc;
     struct sockaddr_in server;
     char *message;
@@ -51,7 +53,11 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+    //Coding Ends
+}
 // Sample Run Screenshot
+
+
 ![Question1](https://github.com/1ch1m0n/ITT440/blob/190f7faee1a7cfeed888a8507dadedee7e64397c/Screenshots/Question%201%20(Sample%20Screenshot).png)
 
 # I used nslookup command in ubuntu to find the IP Address of the hostname given

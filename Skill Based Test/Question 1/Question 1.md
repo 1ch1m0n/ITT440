@@ -53,9 +53,8 @@
     }
 
 # Sample Run Screenshot
+![Question 1 (Sample Screenshot)](https://github.com/1ch1m0n/ITT440/assets/129719310/49b5c432-ad3e-4532-887f-d205e993e713)
 
-
-![Question1](https://github.com/1ch1m0n/ITT440/blob/07d1b575d307dd2715fb3dc53ee799fa1dcc84ba/Screenshots/Question%201%20(Sample%20Screenshot).png)
 
 
 

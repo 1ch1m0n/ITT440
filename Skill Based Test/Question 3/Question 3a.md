@@ -31,4 +31,6 @@
     if __name__ == "__main__":
         main()
 
+# Sample Run Screenshot
+
 ![Question 3a (Server)](https://github.com/1ch1m0n/ITT440/assets/129719310/c54015ef-5a00-4b20-a849-7dc8dcab9245)
